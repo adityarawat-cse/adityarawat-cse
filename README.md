@@ -60,7 +60,7 @@ Deep learning project exploring lightweight CNN and Swin Transformer architectur
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/adityarawat-cse
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/aditya-rawat-cse
 
 ---
 
